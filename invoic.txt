@@ -1,0 +1,860 @@
++----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 66000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 57000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 11500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 35500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
+| Sinuline | 11500 SP |
+| Pasperan | 6500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 70000 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+---------+----------+
+|   Item  |  price   |
++---------+----------+
+| Esostom | 17500 SP |
++---------+----------+
+total is............. = 17500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 57000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 102000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| stopLerg | 18500 SP |
+|  Laxine  | 5500 SP  |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 81000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
+| Sinuline | 11500 SP |
+| Pasperan | 6500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 70000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 11500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| stopLerg | 18500 SP |
+|  Laxine  | 5500 SP  |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 81000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 35500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+|  Fadierin  | 20500 SP |
+| Esemprozol | 16500 SP |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 54500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Superfix | 9500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
++----------+----------+
+total is............. = 39000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 35500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
+| Sinuline | 11500 SP |
+| Pasperan | 6500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 70000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 36000 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
++----------+----------+
+total is............. = 49000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Superfix | 9500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
++----------+----------+
+total is............. = 39000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Fadierin | 20500 SP |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Defetal  | 11500 SP |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 86500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 102000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Fadierin | 20500 SP |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Defetal  | 11500 SP |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 86500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Skelflex  | 15500 SP |
+|  Fadierin  | 20500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 76500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Bmatrix  | 7500 SP  |
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 19000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 50000 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
+| Sinuline | 11500 SP |
+| Pasperan | 6500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 70000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| stopLerg | 18500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 87500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
++----------+----------+
+total is............. = 33500 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Skelflex  | 15500 SP |
+|  Fadierin  | 20500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 76500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Fadierin  | 20500 SP |
+|  Skelflex  | 15500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
+|  Deopflam  | 14500 SP |
++------------+----------+
+total is............. = 91000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 50000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Fadierin | 20500 SP |
+| Pasperan | 6500 SP  |
++----------+----------+
+total is............. = 27000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| stopLerg | 18500 SP |
+|  Laxine  | 5500 SP  |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 81000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| stopLerg | 18500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 87500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
++----------+----------+
+total is............. = 39000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Bmatrix  | 7500 SP  |
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 19000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 11500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+|  Fadierin  | 20500 SP |
+| Esemprozol | 16500 SP |
+|  Esostom   | 17500 SP |
+|  Pasperan  | 6500 SP  |
++------------+----------+
+total is............. = 61000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
++----------+----------+
+total is............. = 33500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+|  Fadierin  | 20500 SP |
+| Esemprozol | 16500 SP |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 54500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 35500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
+| Sinuline | 11500 SP |
+| Pasperan | 6500 SP  |
+| Pasperan | 6500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 70000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 36000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Superfix | 9500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Fadierin  | 20500 SP |
+|  Skelflex  | 15500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
+|  Deopflam  | 14500 SP |
++------------+----------+
+total is............. = 91000 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| stopLerg | 18500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 87500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+|  Laxine  | 5500 SP  |
+| Esostom  | 17500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 101000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 99500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Deopflam | 14500 SP |
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 101000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Sinuline | 11500 SP |
+| Bmatrix  | 7500 SP  |
++----------+----------+
+total is............. = 19000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Skelflex  | 15500 SP |
+|  Fadierin  | 20500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 76500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Deopflam | 14500 SP |
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 101000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Fadierin | 20500 SP |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+|  Laxine  | 5500 SP  |
+| Defetal  | 11500 SP |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 86500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Superfix | 9500 SP  |
+| Pasperan | 6500 SP  |
+|  Laxine  | 5500 SP  |
+| Esostom  | 17500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 101000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Deopflam | 14500 SP |
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 101000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 77500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
++----------+----------+
+total is............. = 39000 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Skelflex  | 15500 SP |
+|  Fadierin  | 20500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 76500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Deopflam | 14500 SP |
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 101000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
++----------+----------+
+total is............. = 49000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 99500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Sinuline | 11500 SP |
+| Bmatrix  | 7500 SP  |
++----------+----------+
+total is............. = 19000 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+|  Fadierin  | 20500 SP |
+| Esemprozol | 16500 SP |
+|  Esostom   | 17500 SP |
+|  Pasperan  | 6500 SP  |
++------------+----------+
+total is............. = 61000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 35500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 36000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
++----------+----------+
+total is............. = 49000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 99500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Bmatrix  | 7500 SP  |
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 19000 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Fadierin  | 20500 SP |
+|  Skelflex  | 15500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
+|   Laxine   | 5500 SP  |
+|  Deopflam  | 14500 SP |
++------------+----------+
+total is............. = 96500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Deopflam | 14500 SP |
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 101000 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Skelflex  | 15500 SP |
+|  Fadierin  | 20500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
++------------+----------+
+total is............. = 76500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
++----------+----------+
+total is............. = 15500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Sinuline | 11500 SP |
+| Bmatrix  | 7500 SP  |
++----------+----------+
+total is............. = 19000 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+|  Fadierin  | 20500 SP |
+| Esemprozol | 16500 SP |
+|  Esostom   | 17500 SP |
+|  Pasperan  | 6500 SP  |
++------------+----------+
+total is............. = 61000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
++----------+----------+
+total is............. = 33500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+|  Laxine  | 5500 SP  |
+| Skelflex | 15500 SP |
+| Deopflam | 14500 SP |
++----------+----------+
+total is............. = 35500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 36000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Esostom  | 17500 SP |
+| Pasperan | 6500 SP  |
+| Skelflex | 15500 SP |
+| Superfix | 9500 SP  |
++----------+----------+
+total is............. = 49000 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+|  Laxine  | 5500 SP  |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 59500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Superfix | 9500 SP  |
+| Esostom  | 17500 SP |
+| Defetal  | 11500 SP |
+| Fadierin | 20500 SP |
+| Skelflex | 15500 SP |
+| stopLerg | 18500 SP |
++----------+----------+
+total is............. = 99500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Bmatrix  | 7500 SP  |
+| Sinuline | 11500 SP |
++----------+----------+
+total is............. = 19000 SP+--------+---------+
+|  Item  |  price  |
++--------+---------+
+| Laxine | 5500 SP |
++--------+---------+
+total is............. = 5500 SP+------------+----------+
+|    Item    |  price   |
++------------+----------+
+| Esemprozol | 16500 SP |
+|  Fadierin  | 20500 SP |
+|  Skelflex  | 15500 SP |
+|  Pasperan  | 6500 SP  |
+|  Esostom   | 17500 SP |
+|   Laxine   | 5500 SP  |
+|  Deopflam  | 14500 SP |
++------------+----------+
+total is............. = 96500 SP+----------+----------+
+|   Item   |  price   |
++----------+----------+
+| Pasperan | 6500 SP  |
+| Defetal  | 11500 SP |
+| Esostom  | 17500 SP |
+| Superfix | 9500 SP  |
+|  Laxine  | 5500 SP  |
+| Deopflam | 14500 SP |
+| Skelflex | 15500 SP |
+| Fadierin | 20500 SP |
++----------+----------+
+total is............. = 101000 SP
